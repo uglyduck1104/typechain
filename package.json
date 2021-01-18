@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/uglyduck1104/typechain.git",
+  "author": "YongJun Lee <mlionlove54@gmail.com>",
+  "license": "MIT"
+}
